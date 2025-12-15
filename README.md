@@ -2,6 +2,7 @@
 
 정보 보안 포트폴리오
 
+<br/>
 ---
 
 ## 📞 Contact & Channels
@@ -16,6 +17,8 @@
 [![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Infra-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Wireshark](https://img.shields.io/badge/Tool-Wireshark-1679A7?logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+
+<br/>
 ---
 
 ## 🛠️ Technical Skills
@@ -25,6 +28,7 @@
 *   **System & Network:** Linux (CentOS/Ubuntu), Windows Server, TCP/IP, Shell Scripting
 *   **Tools:** Git, Notion/Excel(Documentation)
 
+<br/>
 ---
 
 ## 📰 Security News Analysis & Solutions
@@ -35,7 +39,7 @@
 | :--- | :--- | :--- | :--- |
 | | | |
 
-
+<br/>
 ---
 
 
@@ -52,7 +56,7 @@
     *   **[보안 검증]** 도구 다운로드 시 백신 탐지 발생 → 무시하지 않고 **CVE-2022-23307(Log4j)** 관련 이슈임을 파악, GitHub Issue 분석을 통해 오탐(False Positive) 및 안전성을 검증 후 진행
     *   **[트러블슈팅]** CSV 결과 파일의 한글 깨짐 현상 발생 → 인코딩 문제임을 식별하고 Notepad++를 활용해 UTF-8 변환하여 해결
     *   **[분석]** Pass-the-Hash, 권한 상승 등 5건의 핵심 위협 이벤트 탐지 및 **MITRE ATT&CK** 프레임워크 기반 분석 수행
-*   **산출물:** [취약점 분석 결과 보고서 PDF 링크]
+*   **보고서:** [Project/Project 1_chainsaw/Chainsaw의 예제 파일과 AI를 활용한 취약점 분석 보고서.pdf]
 
 ### [Project 2] Azure 하이브리드 클라우드 보안 인프라 구축
 > **온프레미스와 클라우드를 잇는 보안 아키텍처 설계 및 자동화**
@@ -62,7 +66,6 @@
 *   **주요 성과:**
     *   **Terraform**을 활용한 인프라(VM, Network) 자동 배포 환경(IaC) 구현
     *   Azure Firewall 및 NSG를 서브넷 단위로 적용하여 트래픽 제어 강화
-    *   StrongSwan을 이용한 **Site-to-Site VPN** 구축 중 IKEv2 프로토콜 협상 오류 해결 및 연결 성공
 
 ### [Project 3] 리눅스 서버 보안 취약점 자동 점검 스크립트 개발
 > **반복적인 점검 업무 자동화로 효율성 증가**
@@ -80,8 +83,9 @@
 *   **주요 성과:**
     *   취약점 분석 도구와 공격 도구를 활용한 취약점 확인 및 보완 과정 습득
     *   CTF 플래그를 찾아내며 다양한 파일 변환 방식 확인
+*   **보고서:** [Project/Project 4_rapid7 metasploit3/시스템 모의해킹 보고서.pdf]
 
-
+<br/>
 ---
 
 
@@ -96,7 +100,7 @@
 
 ---
 
-## 5. 📝 TIL (Today I Learned) & Docs
+## 📝 TIL (Today I Learned) & Docs
 > **6개월간 하루도 빠짐없이 기록한 성장의 증거**
 
 
