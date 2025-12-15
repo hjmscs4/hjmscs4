@@ -25,10 +25,38 @@
 
 ## 🛠️ Technical Skills
 
-*   **Cloud & Infrastructure:** Azure (VNet, Firewall, VPN), Terraform, Docker, Kubernetes
-*   **Security & Forensics:** Metasploit, Wireshark, Snort, Chainsaw, Nessus, OpenVAS
-*   **System & Network:** Linux (CentOS/Ubuntu), Windows Server, TCP/IP, Shell Scripting
-*   **Tools:** Git, Notion/Excel(Documentation)
+**1. Cloud Security & Infrastructure (Azure)**
+*   Infrastructure: Azure VNet, Subnet, Peering 설계를 통한 Hub & Spoke 네트워크 구축 경험
+*   Security: Azure Firewall, NSG(Network Security Group), App Gateway(WAF), DDoS Protection 구성 및 운영
+*   IaC: Terraform을 활용한 VM, Network, DB 리소스 자동 배포 및 State 관리, 모듈화 경험
+*   Management: VMSS(Auto Scaling), Load Balancer, Bastion Host 구성 및 트래픽 분산 처리
+
+<br/>
+
+**2. System & Network Security**
+*   Linux/Windows: CentOS/Rocky/Ubuntu 및 Windows Server(AD, IIS, DNS, DHCP) 구축 및 보안 설정(Hardening)
+*   Network: TCP/IP, OSI 7 Layer 심층 분석, Wireshark를 이용한 패킷 분석 및 트러블슈팅
+*   Firewall/VPN: Secui BLUEMAX NGF 운용, StrongSwan을 활용한 Site-to-Site IPsec VPN(IKEv2) 및 Hybrid Cloud 네트워크 구축
+*   Encryption: OpenSSL/PKI 기반 사설 인증서(Root CA) 발급 및 관리, SSH 터널링 기법 활용
+
+<br/>
+
+**3. Offensive Security (Red Teaming)**
+*   Vulnerability Assessment: Nessus, OpenVAS(GVM)를 활용한 자산 취약점 스캐닝 및 CVSS 기반 위험도 분석
+*   Pentesting: Metasploit, Hydra, Burp Suite를 활용한 시스템/웹(SQLi, XSS, File Upload) 모의해킹 및 Exploit 시나리오 수행
+*   Forensics: Chainsaw, NetworkMiner를 활용한 침해 사고 로그 분석(Windows Event Log) 및 공격 징후 탐지
+
+<br/>
+
+**4. Container & Orchestration**
+*   Docker: Dockerfile 작성, Image Layer 관리, Volume/Network 설정 및 컨테이너 서비스(Web/DB) 연동
+*   Kubernetes: Kubeadm 클러스터 구축, Pod/Deployment/Service 관리, Ingress/MetalLB를 통한 트래픽 제어, Calico CNI 구성
+
+<br/>
+
+**5. DevSecOps & Automation**
+*   Scripting: Bash Shell Script를 활용한 시스템 보안 설정 자동화(KISA 가이드 기반) 및 백업/복구 스크립트 작성
+*   Development: C언어 기반 시스템 프로그래밍(Socket, Process, Thread), Secure Coding 원리 이해
 
 <br/>
 
