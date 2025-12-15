@@ -3,6 +3,7 @@
 정보 보안 포트폴리오
 
 <br/>
+
 ---
 
 ## 📞 Contact & Channels
@@ -19,6 +20,7 @@
 [![Wireshark](https://img.shields.io/badge/Tool-Wireshark-1679A7?logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 
 <br/>
+
 ---
 
 ## 🛠️ Technical Skills
@@ -29,6 +31,7 @@
 *   **Tools:** Git, Notion/Excel(Documentation)
 
 <br/>
+
 ---
 
 ## 📰 Security News Analysis & Solutions
@@ -40,6 +43,7 @@
 | | | |
 
 <br/>
+
 ---
 
 
@@ -86,6 +90,7 @@
 *   **보고서:** [Project/Project 4_rapid7 metasploit3/시스템 모의해킹 보고서.pdf]
 
 <br/>
+
 ---
 
 
@@ -97,6 +102,8 @@
 * **네트워크관리사 2급** | 한국정보통신자격협회 (2025.07)
 * **정보기기운용기능사** | 한국산업인력공단 (2016.07)
 * **[Microsoft] Cyber Security School 수료** | 경기인력개발원 (2025.05 - 2025.12)
+
+<br/>
 
 ---
 
