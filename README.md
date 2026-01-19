@@ -11,7 +11,7 @@
 | Channel | Link |
 | :--- | :--- |
 | 📧 **Email** | [hjmscs4@gmail.com] |
-| 📝 **Blog** | [준비중] |
+| 📝 **SNS** | [Bluesky](https://bsky.app/profile/hjmscs4.bsky.social) |
 
 [![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/)
@@ -66,9 +66,7 @@
 
 *보안 이슈 스크랩*
 
-| 📅 작성일 | 🎯 분석 주제 (Title) | 🛡️ 핵심 분석 및 제안 (Key Solution) | 🔗 링크 |
-| :--- | :--- | :--- | :--- |
-| | | |
+[블루스카이](https://bsky.app/profile/hjmscs4.bsky.social)에서 정리하고 있습니다.
 
 <br/>
 
