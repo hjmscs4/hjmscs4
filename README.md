@@ -10,7 +10,7 @@
 
 | Channel | Link |
 | :--- | :--- |
-| 📧 **Email** | [G-mail](jmscs4@gmail.com) |
+| 📧 **Email** | hjmscs4@gmail.com |
 | 📝 **SNS** | [Bluesky](https://bsky.app/profile/hjmscs4.bsky.social) |
 
 [![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
